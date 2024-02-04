@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">993632489827</string>
+    <string name="google_api_key" translatable="false">AIzaSyCr6D2xNyIbEQ8PbrWLVJ_IfycEmTje3zI</string>
+    <string name="google_app_id" translatable="false">1:993632489827:android:cb6d36a3758e416b124356</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCr6D2xNyIbEQ8PbrWLVJ_IfycEmTje3zI</string>
+    <string name="google_storage_bucket" translatable="false">healthcare1-1b672.appspot.com</string>
+    <string name="project_id" translatable="false">healthcare1-1b672</string>
+</resources>
